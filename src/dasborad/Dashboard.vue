@@ -146,7 +146,7 @@
                 item.month
               }}</span>
               <span class="text-xs text-slate-500">
-                ${{ (item.sales / 1000).toFixed(0) }}k
+                ${{ (item.sales / 1000).toFixed(0) }}
               </span>
             </div>
           </div>
