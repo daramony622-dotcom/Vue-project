@@ -8,7 +8,7 @@ import Aboutpage from "./page/Aboutpage.vue";
 import Registerpage from "./page/Registerpage.vue";
 import Product from "./categaries/Product.vue";
 import Addtocart from "./cart/Addtocart.vue";
-import Dashboard from "./dasborad/Dashboard.vue";
+import Dashboard from "./dashboard/Dashboard.vue";
 
 const routes = [
   {
